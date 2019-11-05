@@ -11,7 +11,7 @@
 
 #if AS_IG_LIST_KIT
 
-#import <IGListKit_Converse/IGListKit.h>
+#import <IGListKit_Converse/IGListKit_Converse.h>
 #import <AsyncDisplayKit/ASCollectionView.h>
 #import <AsyncDisplayKit/ASCollectionNode.h>
 
