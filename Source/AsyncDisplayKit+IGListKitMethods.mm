@@ -11,7 +11,7 @@
 
 #if AS_IG_LIST_KIT
 
-#import "AsyncDisplayKit+IGListKitMethods.h"
+#import <AsyncDisplayKit/AsyncDisplayKit+IGListKitMethods.h>
 #import <AsyncDisplayKit/ASAssert.h>
 #import <AsyncDisplayKit/_ASCollectionViewCell.h>
 #import <AsyncDisplayKit/_ASCollectionReusableView.h>
